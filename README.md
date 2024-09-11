@@ -1,6 +1,6 @@
 ### Hi, I am Sonia Batista
 
-- 🌱 I’m currently learning about Blockchain, Solidity, Web3, Scaffold ETH-2, Foundry, HardHat
+- 🌱 I’m currently Blockchain developer (Solidity, Web3, Scaffold ETH-2, Foundry, HardHat, NextJS)
 
 <div> 
   <a href = "mailto:dev.soniabatista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
