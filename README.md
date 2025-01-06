@@ -1,6 +1,6 @@
 ### Hi, I am Sonia Batista
 
-- I’m Blockchain developer (Solidity, Foundry, HardHat, Web3, Scaffold ETH-2, NextJS)
+- I’m Blockchain developer (Solidity, Foundry, Web3, Scaffold ETH-2, NextJS)
 
 <div> 
     <a href="https://linktr.ee/dev.soniabatista" target="_blank"><img src="https://img.shields.io/badge/-Linktr.ee-%230077B5?style=for-the-badge&logo=linktree&logoColor=green" target="_blank"></a> 
